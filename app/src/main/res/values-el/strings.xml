@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Θερμίδες</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="Login_text">Εγγραφή</string>
+    <string name="btn_logout_from_google">Αποσύνδεση</string>
+    <string name="hello_world">Γεία σου κόσμε</string>
+    <string name="btn_revoke_access"></string>
+</resources>
